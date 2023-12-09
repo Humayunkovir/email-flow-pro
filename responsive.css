@@ -1,0 +1,12 @@
+@media only screen and (max-width: 600px) {
+br{
+        display: none;
+    }
+.are-you-ready{
+    margin-top: 80px;
+}
+.ready-right-content{
+    margin-top: 80px;
+}
+
+  }
